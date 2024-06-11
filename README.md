@@ -27,7 +27,7 @@ Moderators have the right and responsibility to remove any messages, that do not
 
 Instances of unacceptable behavior can be reported to moderators via private messages on Telegram:
 
-- @mayushii
-- @arcticspacecat
+- [@mayushii](https://t.me/mayushii)
+- [@arcticspacecat](https://t.me/arcticspacecat)
 
 All complaints will be reviewed and investigated for compliance with accepted norms. Administrators commit to maintaining the confidentiality of all reports.
