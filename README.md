@@ -23,7 +23,7 @@ In the interest of fostering a friendly atmosphere and equality within the commu
 
 ## Moderators
 
-Moderators have the right and responsibility to remove any messages, that do not comply with this Fox’s Forest Chatter Rules, and to restrict access temporarily or permanently to any member if they find their behavior inappropriate or offensive.
+Moderators have the right and responsibility to remove any messages, that do not comply with these Fox’s Forest Chatter Rules, and to restrict access temporarily or permanently to any member if they find their behavior inappropriate or offensive.
 
 Instances of unacceptable behavior can be reported to moderators via private messages on Telegram:
 
