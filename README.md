@@ -9,13 +9,12 @@ In the interest of fostering a friendly atmosphere and equality within the commu
 - Use friendly and tolerant language;
 - Respect others' viewpoints and experiences;
 - Maintain a well-reasoned and constructive point of view;
-- Remember to contribute positively to the community;
 - Show empathy towards other community members.
 
 ## Unacceptable Behavior
-
+- Sending any not allowed referral links;
+- Sending any not allowed advertisements;
 - Using any form of profanity;
-- Making statements or using images directed at an individual or group related to their gender, sexual orientation, or seeking sexual attention;
 - Trolling, offensive or demeaning messages, personal attacks, political propaganda, incitement of ethnic hatred;
 - Harassment in any form;
 - Publishing personal information, such as residence or email address, without the owner's consent;
